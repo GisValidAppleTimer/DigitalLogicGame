@@ -1,9 +1,9 @@
-# GisAppleTimer
+# PictaPhone
 
 
-Technical support for "Valid Apple Timer"
+Technical support for "PictaPhone"
 
-We will provide technical support for this app（Valid Apple Timer）, you can directly reply to the contact developer, you can also describe the problem clearly, contact email: GissingAppleTimer@gmail.com
+We will provide technical support for this app（PictaPhone）, you can directly reply to the contact developer, you can also describe the problem clearly, contact email: gissingPictaPhone@gmail.com
 
 Privacy Policy
 
