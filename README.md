@@ -1,9 +1,9 @@
-# PictaPhone
+# FireForest
 
 
-Technical support for "PictaPhone"
+Technical support for "FireForest"
 
-We will provide technical support for this app（PictaPhone）, you can directly reply to the contact developer, you can also describe the problem clearly, contact email: gissingPictaPhone@gmail.com
+We will provide technical support for this app（FireForest）, you can directly reply to the contact developer, you can also describe the problem clearly, contact email: gisFireForest@gmail.com
 
 Privacy Policy
 
