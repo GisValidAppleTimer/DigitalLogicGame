@@ -1,9 +1,9 @@
-# FireForest
+# Dragon Valley Adventure
 
 
-Technical support for "FireForest"
+Technical support for "Dragon Valley Adventure"
 
-We will provide technical support for this app（FireForest）, you can directly reply to the contact developer, you can also describe the problem clearly, contact email: gisFireForest@gmail.com
+We will provide technical support for this app, you can directly reply to the contact developer, you can also describe the problem clearly, contact email: DragonValleyAdventure@gmail.com
 
 Privacy Policy
 
