@@ -1,8 +1,8 @@
-# DigitalLogicGame
+# DragonValleyAdventure
 
-Technical support for "DigitalLogicGame"
+Technical support for "DragonValleyAdventure"
 
-We will provide technical support for this app（DigitalLogicGame）, you can directly reply to the contact developer, you can also describe the problem clearly, contact email: DigitalLogicGame@gmail.com
+We will provide technical support for this app（DragonValleyAdventure）, you can directly reply to the contact developer, you can also describe the problem clearly, contact email: DragonValleyAdventure@gmail.com
 
 Privacy Policy
 
